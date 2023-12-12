@@ -63,4 +63,17 @@ Livro | Páginas | Pré-requisitos
 Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
 [Cálculo Numérico](https://www.amazon.com.br/C%C3%A1lculo-Num%C3%A9rico-L-C-Barroso/dp/8529400895/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=WY6DXEJ8707I&keywords=C%C3%A1lculo+Num%C3%A9rico&qid=1702404601&sprefix=c%C3%A1lculo+num%C3%A9ri%2Caps%2C206&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d) | 384 | Desconhecido
+
+### Geometria Diferencial
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
 [Geometria Diferencial de Curvas e Superfícies](https://www.amazon.com.br/GEOMETRIA-DIFERENCIAL-SUPERF%C3%8DCIES-MANFREDO-PERDIG%C3%83O/dp/8583370249/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=10B6KXBSP2S93&keywords=Geometria+diferencial+manfredo+perdig%C3%A3o&qid=1702404725&sprefix=geometria+diferencial+manfredo+perdig%C3%A3%2Caps%2C191&sr=8-1) | 608 | Desconhecido
+
+### Probabilidade
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Probabilidade: Um Curso Moderno com Aplicações](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplica%C3%A7%C3%B5es/dp/8577806219/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=L2S6L8VZQZLW&keywords=Probabilidade&qid=1702404812&sprefix=probabilidad%2Caps%2C217&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12) | 608 | Desconhecido
+
+
