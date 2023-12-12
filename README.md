@@ -55,3 +55,11 @@ Livro | Páginas | Pré-requisitos
 Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
 [Álgebra Linear](https://www.amazon.com.br/%C3%81lgebra-Moderna-Gelson-Iezzi/dp/8547223053/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=33IIP7YAO59JP&keywords=%C3%81lgebra+Moderna&qid=1702404485&sprefix=%C3%A1lgebra+moder%2Caps%2C210&sr=8-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d) | 408 | Desconhecido
+
+## Terceiro semestre da graduação
+
+### Cálculo Numérico
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Cálculo Numérico](https://www.amazon.com.br/C%C3%A1lculo-Num%C3%A9rico-L-C-Barroso/dp/8529400895/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=WY6DXEJ8707I&keywords=C%C3%A1lculo+Num%C3%A9rico&qid=1702404601&sprefix=c%C3%A1lculo+num%C3%A9ri%2Caps%2C206&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d) | 384 | Desconhecido
