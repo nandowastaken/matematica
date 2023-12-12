@@ -1,5 +1,7 @@
-# matematica
-roadmap de matemática 
+<h3 align="center">Roadmap de Matemática</h3>
+<p align="center">
+  Inspirado pelo <a href="https://github.com/ossu/math" target="_blank">ossu/math</a> e pelo <a href="https://github.com/TalalAlrawajfeh/mathematics-roadmap/tree/master" target="_blank">mathematics-roadmap</a>.
+</p>
 
 ## Base
 
