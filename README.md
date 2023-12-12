@@ -28,5 +28,6 @@ Livro | Páginas | Pré-requisitos
 
 Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
-[Geometria Euclidiana Plana](https://www.amazon.com.br/Geometria-Euclidiana-Plana-Lucas-Marques/dp/8583371067/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29DWJFMWIPXR4&keywords=Geometria+Euclidiana+Plana&qid=1702402966&sprefix=geometria+euclidiana+pla%2Caps%2C209&sr=8-1) | Desconhecido | Nenhum
+[Geometria Euclidiana Plana](https://www.amazon.com.br/Geometria-Euclidiana-Plana-Lucas-Marques/dp/8583371067/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29DWJFMWIPXR4&keywords=Geometria+Euclidiana+Plana&qid=1702402966&sprefix=geometria+euclidiana+pla%2Caps%2C209&sr=8-1) | Desconhecido | Um Convite à Matemática
+[Geometria Analítica](https://www.amazon.com.br/Geometria-Anal%C3%ADtica-Alfredo-Steimbruch/dp/0074504096/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1QF36M5CKF27C&keywords=geometria+anal%C3%ADtica&qid=1702404029&sprefix=geometria+anal%C3%ADti%2Caps%2C241&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d) | 304 | Geometria Euclidiana Plana
 
