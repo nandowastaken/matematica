@@ -13,7 +13,7 @@ Livro | Páginas | Pré-requisitos
 [Manual Compacto da Matemática - Ensino Fundamental](https://www.leonardoportal.com/p/manuais-compactos-rideel-pdf.html) | 453 páginas | Nenhum
 [Manual Compacto da Matemática - Ensino Fundamental](https://www.leonardoportal.com/p/manuais-compactos-rideel-pdf.html) | 453 páginas | Matemática do Ensino Fundamental
 
-## Primeiro semestre da graduação em Matemática
+## Primeiro semestre da graduação 
 
 ### Cálculo
 
@@ -36,3 +36,10 @@ Livro | Páginas | Pré-requisitos
 [Geometria Euclidiana Plana](https://www.amazon.com.br/Geometria-Euclidiana-Plana-Lucas-Marques/dp/8583371067/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29DWJFMWIPXR4&keywords=Geometria+Euclidiana+Plana&qid=1702402966&sprefix=geometria+euclidiana+pla%2Caps%2C209&sr=8-1) | Desconhecido | Um Convite à Matemática
 [Geometria Analítica](https://www.amazon.com.br/Geometria-Anal%C3%ADtica-Alfredo-Steimbruch/dp/0074504096/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1QF36M5CKF27C&keywords=geometria+anal%C3%ADtica&qid=1702404029&sprefix=geometria+anal%C3%ADti%2Caps%2C241&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d) | 304 | Geometria Euclidiana Plana
 
+## Segundo semestre da graduação 
+
+### Álgebra Linear
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Álgebra Linear](https://www.amazon.com.br/Algebra-Linear-Elon-Lages-Lima/dp/8524400897/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZKPMH4TBNYOH&keywords=%C3%81lgebra+Linear+Elon&qid=1702404309&sprefix=%C3%A1lgebra+linear+elon%2Caps%2C243&sr=8-1) | Desconhecido | Cálculo: Volume 2
