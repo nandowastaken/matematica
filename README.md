@@ -80,4 +80,8 @@ Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
 [Espaços Métricos](https://www.amazon.com.br/Espa%C3%A7os-Metricos-Elon-Lages-Lima/dp/8524401583/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1IOIRMGDJIV58&keywords=espa%C3%A7os+m%C3%A9tricos&qid=1702404995&sprefix=espa%C3%A7os+m%C3%A9tric%2Caps%2C201&sr=8-2) | Desconhecido | Desconhecido
 
+### Equações Diferenciais
 
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Equações Diferenciais Elementares e Problemas de Valores de Contorno](https://www.amazon.com.br/Equa%C3%A7%C3%B5es-Diferenciais-Elementares-Problemas-Contorno/dp/8521636946/ref=sr_1_1?crid=F13QIYHGJU1B&keywords=equa%C3%A7%C3%B5es+diferenciais+elementares+e+problemas+de+valores+de+contorno&qid=1702405079&sprefix=Equa%C3%A7%C3%B5es+Diferenciais+Elementares+e+Problemas%2Caps%2C203&sr=8-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74) | 408 páginas | Desconhecido
