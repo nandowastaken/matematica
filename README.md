@@ -24,4 +24,9 @@ Livro | Páginas | Pré-requisitos
 [Um Convite à Matemática](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Dezembro_2022/Morais_Filho_Um.pdf) | Desconhecido | Nenhum
 [Introdução à Lógica](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-l%C3%B3gica-Cezar-Mortari/dp/8539306301/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=265UDOBU11A4C&keywords=introdu%C3%A7%C3%A3o+%C3%A0+l%C3%B3gica&qid=1702402870&sprefix=introdu%C3%A7%C3%A3o+%C3%A0+l%C3%B3g%2Caps%2C549&sr=8-1) | 528 | Nenhum
 
+## Geometria
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Geometria Euclidiana Plana](https://www.amazon.com.br/Geometria-Euclidiana-Plana-Lucas-Marques/dp/8583371067/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29DWJFMWIPXR4&keywords=Geometria+Euclidiana+Plana&qid=1702402966&sprefix=geometria+euclidiana+pla%2Caps%2C209&sr=8-1) | Desconhecido | Nenhum
 
