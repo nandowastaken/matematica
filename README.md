@@ -74,3 +74,10 @@ Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
 [Probabilidade: Um Curso Moderno com Aplicações](https://www.amazon.com.br/An%C3%A1lise-Real-Fun%C3%A7%C3%B5es-Uma-Vari%C3%A1vel/dp/B07FKMB28V/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DX5WMY4K5E3A&keywords=an%C3%A1lise+real+elon&qid=1702404935&sprefix=an%C3%A1lise+real+elo%2Caps%2C212&sr=8-1) | Desconhecido | Desconhecido
 
+### Espaços Métricos
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Espaços Métricos](https://www.amazon.com.br/Espa%C3%A7os-Metricos-Elon-Lages-Lima/dp/8524401583/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1IOIRMGDJIV58&keywords=espa%C3%A7os+m%C3%A9tricos&qid=1702404995&sprefix=espa%C3%A7os+m%C3%A9tric%2Caps%2C201&sr=8-2) | Desconhecido | Desconhecido
+
+
