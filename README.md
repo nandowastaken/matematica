@@ -43,3 +43,9 @@ Livro | Páginas | Pré-requisitos
 Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
 [Álgebra Linear](https://www.amazon.com.br/Algebra-Linear-Elon-Lages-Lima/dp/8524400897/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZKPMH4TBNYOH&keywords=%C3%81lgebra+Linear+Elon&qid=1702404309&sprefix=%C3%A1lgebra+linear+elon%2Caps%2C243&sr=8-1) | Desconhecido | Cálculo: Volume 2
+
+### Teoria dos Números
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Álgebra Linear](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Teoria-dos-N%C3%BAmeros/dp/8524404965/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=27NJ8GV98VI6J&keywords=Introdu%C3%A7%C3%A3o+%C3%A0+Teoria+dos+N%C3%BAmeros&qid=1702404451&sprefix=introdu%C3%A7%C3%A3o+%C3%A0+teoria+dos+n%C3%BAmer%2Caps%2C204&sr=8-1) | Desconhecido | Desconhecido
